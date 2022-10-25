@@ -61,7 +61,6 @@ class BookController extends Controller
             'message' => 'Daftar data buku berhasil disimpan',
             'data' => $book
         ], 201);
-
     }
 
     /**
